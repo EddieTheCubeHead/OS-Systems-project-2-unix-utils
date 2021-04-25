@@ -5,7 +5,12 @@ All programs can be built simultaneously with the command 'make'
 
 Usages:
 
+
+
 my-cat: './my-cat file1 [file2] ... [fileN]'
+
 my-grep: './my-grep searchterm [file1] ... [fileN]'
+
 my-zip: './my-zip [file1] ... [fileN]'
+
 my-unzip './my-unzip file'
